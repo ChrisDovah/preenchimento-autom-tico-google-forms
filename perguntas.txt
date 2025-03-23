@@ -1,0 +1,10 @@
+Questão 1: Qual é a capital do Brasil?
+Brasília
+Rio de Janeiro
+São Paulo
+Belo Horizonte
+
+Questão 2: Qual é 2 + 2?
+3
+4
+5
