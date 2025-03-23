@@ -58,6 +58,7 @@ python preencher_forms.py
 
 - O script simula teclado e mouse, então **não mexa no computador enquanto ele estiver rodando**.
 - O layout do Google Forms pode sofrer pequenas variações, ajustes podem ser necessários.
+- Em casos de perguntas muito simples, o Forms costuma dar uma sugestão de resposta. Nesses casos o código não funcionará adequadamente e serão necessários alguns ajustes.
 
 ## Licença 📄
 
