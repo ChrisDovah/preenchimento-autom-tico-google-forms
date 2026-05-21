@@ -60,6 +60,10 @@ python preencher_forms.py
 - O layout do Google Forms pode sofrer pequenas variações, ajustes podem ser necessários.
 - Em casos de perguntas muito simples, o Forms costuma dar uma sugestão de resposta. Nesses casos o código não funcionará adequadamente e serão necessários alguns ajustes.
 
+## 🟢 Melhorias futuras:
+- Adicionar uma mensagem no computador de automação concluída
+- Incluir tratamento de erros no código
+
 ## Licença 📄
 
 Este projeto está sob a licença MIT.
